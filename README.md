@@ -1,10 +1,12 @@
 # Node-Multiple-Versions---nvm
-### Install and use nvm
+### Install nvm
 
-Go to page below and download latest version.
+Go to page below and download and install latest version
 ```
 https://github.com/coreybutler/nvm-windows/releases
 ```
+
+### Use nvm
 
 All version availables
 ```
