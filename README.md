@@ -1,4 +1,4 @@
-# Node-Multiple-Versions---nvm
+# node-multiple-versions-nvm
 ### Install nvm
 
 Go to page below and download and install latest version
